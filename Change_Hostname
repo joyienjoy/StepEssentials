@@ -1,0 +1,6 @@
+IN CENTOS and UBUNTU
+The following steps are done to change Hostname of Server:
+
+vi /etc/hostname     #Edit hostname in /etc directory
+vi /etc/hosts        #Edit any exisiting old hostname in this file
+reboot
